@@ -12,7 +12,7 @@
     # Directory in Azure to copy from or to
     blob_directory: # optional
     # Local directory to copy from or to; this can either be an absolute path or a relative path
-    local_directory: 
+    local_directory: ADDS_GIT
     # YAML document that allows setting http headers on blobs when uploading to Azure.
 
 The supported headers are: Cache-Control, Content-Type, Content-Encoding, Content-Language, Content-Disposition (case sensitive).
