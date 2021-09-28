@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "joshea"
+    },
+    "adminPassword": {
+      "value": "ZAQ!XSW@zaq1xsw2"
+    },
+    "domainName": {
+      "value": "jmodomain.local"
+    },
+    "location": {
+      "value": "eastus2"
+    }
+  }
+}
